@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1607258774 source:d:\19ctt2\hk1 2020-2021\cs202\seminar\factorypattern\main.cpp
+	"Factory.h"
+
+1607258755 d:\19ctt2\hk1 2020-2021\cs202\seminar\factorypattern\factory.h
+	"Product.h"
+
+1607258827 d:\19ctt2\hk1 2020-2021\cs202\seminar\factorypattern\product.h
+	<iostream>
+	<bits/stdc++.h>
+
